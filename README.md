@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +33,53 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Next.js Project: Auth & Product Platform
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
+The project demonstrates a full-stack-like setup with authentication (login/register), protected dashboard, account verification, and a dynamic product page.  
+
+---
+
+## Table of Contents
+
+- [Getting Started](#getting-started)  
+- [Project Structure](#project-structure)  
+- [Features](#features)  
+- [Usage Flow](#usage-flow)  
+- [Authentication](#authentication)  
+- [Product Page](#product-page)  
+- [API](#api)  
+- [Learn More](#learn-more)  
+- [Deployment](#deployment)  
+
+---
+
+## Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone <your-repo-url>
+cd <project-folder>
+npm install
+# or
+yarn
+# or
+pnpm install
